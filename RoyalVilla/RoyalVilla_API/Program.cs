@@ -3,11 +3,6 @@ using RoyalVilla_API.Data;
 using Scalar.AspNetCore;
 using System.Runtime.CompilerServices;
 
-
-
-
-
-
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
