@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Farrukh Saleem Sheikh\\Work\\RoyalVilla\\",
+  "WorkspaceRootPath": "D:\\Farrukh Saleem Sheikh\\Work\\REST API\\RoyalVilla\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7F8FE35F-097D-A427-CC28-7C8D760F54F6}|RoyalVilla_API\\RoyalVilla_API.csproj|d:\\farrukh saleem sheikh\\work\\royalvilla\\royalvilla_api\\controllers\\villacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7F8FE35F-097D-A427-CC28-7C8D760F54F6}|RoyalVilla_API\\RoyalVilla_API.csproj|d:\\farrukh saleem sheikh\\work\\rest api\\royalvilla\\royalvilla_api\\controllers\\villacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F8FE35F-097D-A427-CC28-7C8D760F54F6}|RoyalVilla_API\\RoyalVilla_API.csproj|solutionrelative:royalvilla_api\\controllers\\villacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "VillaController.cs",
-              "DocumentMoniker": "D:\\Farrukh Saleem Sheikh\\Work\\RoyalVilla\\RoyalVilla_API\\Controllers\\VillaController.cs",
+              "DocumentMoniker": "D:\\Farrukh Saleem Sheikh\\Work\\REST API\\RoyalVilla\\RoyalVilla_API\\Controllers\\VillaController.cs",
               "RelativeDocumentMoniker": "RoyalVilla_API\\Controllers\\VillaController.cs",
-              "ToolTip": "D:\\Farrukh Saleem Sheikh\\Work\\RoyalVilla\\RoyalVilla_API\\Controllers\\VillaController.cs",
+              "ToolTip": "D:\\Farrukh Saleem Sheikh\\Work\\REST API\\RoyalVilla\\RoyalVilla_API\\Controllers\\VillaController.cs",
               "RelativeToolTip": "RoyalVilla_API\\Controllers\\VillaController.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAQwDAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-25T04:48:46.321Z",
               "EditorCaption": ""
