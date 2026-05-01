@@ -18,5 +18,88 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "RoyalVilla_API.Controllers.VillaController",
+    "Method": "CreateVilla",
+    "RelativePath": "api/villa",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "villaDTO",
+        "Type": "RoyalVilla_API.DTO.VillaCreateDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "RoyalVilla_API.Model.Villa",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "RoyalVilla_API.Controllers.VillaController",
+    "Method": "GetVillByID",
+    "RelativePath": "api/villa/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "RoyalVilla_API.Model.Villa",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "RoyalVilla_API.Controllers.VillaController",
+    "Method": "UpdateVilla",
+    "RelativePath": "api/villa/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "villaDTO",
+        "Type": "RoyalVilla_API.DTO.VillaUpdateDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "RoyalVilla_API.Model.Villa",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   }
 ]
